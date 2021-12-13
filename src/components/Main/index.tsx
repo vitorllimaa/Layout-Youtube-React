@@ -18,7 +18,7 @@ const videos = [
     {
       id: 2,
       title:
-        'Matrix Resurrections – Trailer 2 Oficial',
+        'Vingadores - Guerra Infinita |  Trailer Oficial Legendado',
       channel: 'Ingresso.com',
       views: '11,3 mi de visualizações •',
       date: ' há 3 dias',
