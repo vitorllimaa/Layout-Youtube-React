@@ -16,10 +16,10 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 
 ## Demonstração do site Light
-![Homepage image](https://github.com/vitorllimaa/Projeto-CRUD-React/blob/master/public/git_project.gif?raw=true)
+![Homepage image](https://github.com/vitorllimaa/Layout-Youtube-React/blob/master/public/img/img_README/layout%20youtube%20light.png?raw=true)
 
 ## Demonstração do site Dark
-![Homepage image](https://github.com/vitorllimaa/Projeto-CRUD-React/blob/master/public/git_project.gif?raw=true)
+![Homepage image](https://github.com/vitorllimaa/Layout-Youtube-React/blob/master/public/img/img_README/layout%20youtube%20dark.png?raw=trueS)
 
 ## Links
 Repositório: https://github.com/vitorllimaa/Layout-Youtube-React
