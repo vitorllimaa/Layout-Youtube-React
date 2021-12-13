@@ -6,7 +6,7 @@ import AppsIcon from '@mui/icons-material/Apps';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 import Brightness4OutlinedIcon from '@mui/icons-material/Brightness4Outlined';
 import Box from '@mui/material/Box';
-import Butao from '../Button/';
+import Botao from '../Button/';
 import useStyles from './style';
 import NavDrawer from '../Drawer/';
 
@@ -58,7 +58,7 @@ const NavBar: React.FC<Props> = ({onThemeChange, themeMode}): JSX.Element => {
                     >
                     <MenuIcon />
                     </MoreVertIcon>
-                    <Butao />
+                    <Botao />
                 </Toolbar>
                 </AppBar>
             </Box>

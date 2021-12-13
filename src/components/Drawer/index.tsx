@@ -14,7 +14,7 @@ import LiveTvIcon from '@mui/icons-material/LiveTv';
 import SlowMotionVideoIcon from '@mui/icons-material/SlowMotionVideo';
 import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
 import YouTubeIcon from '@mui/icons-material/YouTube';
-import Butao from '../Button/';
+import Botao from '../Button/';
 import useStyles from './style';
 import Main from '../Main/';
 
@@ -95,7 +95,7 @@ const NavDrawer: React.FC<Props> = ({onThemeChange}): JSX.Element => {
                             <Typography variant='body2' className={classes.listItemText} >Faça login para curtir vídeos, comentar e se inscrever.</Typography>
                         </Box>
                         <Box p={2}>
-                            <Butao />
+                            <Botao />
                         </Box>
                         <Box p={2}>
                             <Typography variant='body2' className={classes.listItemText} >O MELHOR DO YOUTUBE</Typography>
