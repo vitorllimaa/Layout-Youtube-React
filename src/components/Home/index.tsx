@@ -1,4 +1,4 @@
-import React, { VoidFunctionComponent } from "react";
+import React from "react";
 import NavBar from '../navBar/';
 
 interface Props {
